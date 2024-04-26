@@ -1,0 +1,22 @@
+{
+  "name": "sudocode",
+  "version": "1.0.0",
+  "description": "sudocode core libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudocode-ai/sudocode-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudocode-ai/sudocode-js/issues"
+  },
+  "homepage": "https://github.com/sudocode-ai/sudocode-js#readme",
+  "dependencies": {
+    "sudocode": "^1.0.0"
+  }
+}
